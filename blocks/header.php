@@ -20,7 +20,7 @@
             <a class="header_link2" href="https://t.me/ExchangeCurrencyCrypto_bot"><strong>Bot</strong></a>
             <a class="header_link3" href="crypto.php"><strong>Convert</strong></a>
 
-            <button  id="switchMode">Switch</button>
+            <button  id="switchMode">Theme</button>
 
 
         </nav>
