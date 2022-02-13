@@ -1,0 +1,910 @@
+.margin_left{
+	margin-left: 15% ;
+}
+
+.header {
+	margin-top: 3%;
+	margin-left: 15%;
+
+}
+
+.header_link1{
+	margin-left: 200px;
+	font-size: 1.5em;
+	color: #0088CC;
+
+}
+.header_link1:hover{
+	color: #fff;
+	transition: all 500ms ease;
+}
+
+.header_link2{
+	margin-left: 40px;
+	font-size: 1.5em;
+	color: #0088CC;
+
+}
+
+.header_link2:hover{
+	color: #fff;
+	transition: all 500ms ease;
+}
+
+.header_link3{
+	margin-left: 40px;
+	font-size: 1.5em;
+	color: #0088CC;
+}
+
+.header_link3:hover{
+	color: #fff;
+	transition: all 500ms ease;
+
+}
+
+
+
+
+
+.name {
+		font-size: 1.5em ;
+}
+.bot_link{
+	margin-top: 10%;
+}
+
+a {
+	text-decoration: none;
+}
+
+.welcome_div {
+
+	float: left;
+	width: 30%;
+
+
+}
+
+.welcome_img{
+	float: right;
+}
+
+.telegramlink{
+	background-color:#0088CC ;
+	border: 2px solid #0088CC;
+}
+
+.telegramlink:hover{
+	background-color:#026ca1 ;
+	border: 2px solid #026ca1;
+	transition: all 500ms ease;
+
+}
+
+.githublink{
+	margin-left: 2%;
+	border: 2px solid #0088CC;
+	color: #0088CC;
+	text-decoration: none;
+}
+
+
+.block-befor{
+	margin-bottom: 10px;
+}
+
+.block-after{
+	margin-top: 100px ;
+
+}
+
+.about{
+	font-size: 1.3em;
+	font-family: "mulish-black";
+	width: 80%;
+}
+
+.headline {
+	font-size: 32px;
+	width: 49%;
+	max-width: 376px;
+}
+
+.coming-soon{
+	width: 100px;
+	height: 200px;
+}
+.coming-soon a{
+	font-size: 1.5em;
+	color: #0088CC;
+}
+
+.coming-soon a:hover{
+	font-size: 1.5em;
+	color: black;
+}
+
+
+.Exchange-bot{
+	margin-left: 300px;
+	margin-bottom: 50px;
+}
+
+.h2-1{
+	margin-left: 350px;
+	color: #0088cc;
+	margin-bottom: 40px;
+}
+
+.tg-sticker-2{
+
+/*Get BlueMail for Desktop*/
+
+	margin-left: 150px;
+}
+
+.functional{
+	margin-top: 100px;
+	color: #0088CC;
+	font-size: 3em;
+	margin-left: 300px;
+}
+.currency {
+	font-weight: bold;
+	color:#0088CC ;
+	margin-top: 50px;
+}
+
+.crypto{
+	font-weight: bold;
+	color: #0088CC;
+	margin-top: 50px;
+}
+
+.p-cola{
+	margin-left: 650px;
+}
+.tg-sticker-3{
+	margin-left: 700px;
+
+}
+
+/*exchange site */
+
+.crypto-button{
+	margin-top: 20px;
+	border: 2px solid #0088cc;
+	border-radius: 40px;
+	margin-left: 650px;
+	width: 500px;
+	height: 70px;
+	font-size: 1.2em ;
+}
+
+.crypto-input-div{
+	margin-left: 650px;
+	margin-top: 50px;
+	width: 500px;
+	height: 70px;
+	background-color: #4267B2;
+	border-radius: 40px;
+}
+
+.crypto-input{
+	margin-top: 20px;
+	margin-left: 20px;
+	border: 2px solid #0088cc;
+	border-radius: 40px;
+	outline:none;
+}
+
+.output-crypto{
+	margin-left: 650px;
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 3em;
+	width: 500px;
+	height: 80px;
+	background-color: #0088cc ;
+	border-radius: 40px;
+}
+
+
+
+.form-2{
+	font-weight: bold;
+}
+
+.crypto-form-div{
+
+	margin-top: 15px;
+}
+
+/*crypo link*/
+
+.crypto-link {
+	position: relative;
+	color: #0088cc;
+	cursor: pointer;
+	line-height: 1;
+	text-decoration: none;
+	margin-top: 15px;
+
+}
+.crypto-link:after {
+	display: block;
+	position: absolute;
+	left: 0;
+	width: 0;
+	height: 2px;
+	background-color: #0088cc;
+	content: "";
+	transition: width 0.3s ease-out;
+}
+
+.crypto-link:hover:after,
+.crypto-link:focus:after {
+	width: 100%;
+}
+
+
+/*currency link*/
+
+.currency-link {
+	position: relative;
+	color: #0088cc;
+	cursor: pointer;
+	line-height: 1;
+	text-decoration: none;
+}
+.currency-link:after {
+	display: block;
+	position: absolute;
+	left: 0;
+	width: 0;
+	height: 2px;
+	background-color: #0088cc;
+	content: "";
+	transition: width 0.3s ease-out;
+}
+
+.currency-link:hover:after,
+.currency-link:focus:after {
+	width: 100%;
+}
+
+
+.links-crypto{
+	margin-top: 20px;
+	margin-left: 45%;
+	font-size: 1.4em;
+}
+
+/*currency.php*/
+
+.input-currency-1,
+.input-currency-2{
+	margin-left: 650px;
+	margin-top: 50px;
+	width: 500px;
+	height: 70px;
+	background-color: #4267B2;
+	border-radius: 40px;
+}
+
+.currency-input-1,
+.currency-input-2{
+	margin-top: 20px;
+	margin-left: 20px;
+	border: 2px solid #0088cc;
+	border-radius: 40px;
+	outline:none;
+}
+
+.currency-button{
+	margin-top: 20px;
+	border: 2px solid #0088cc;
+	border-radius: 40px;
+	margin-left: 650px;
+	width: 500px;
+	height: 70px;
+}
+
+.output-currency{
+	margin-left: 42%;
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 3em;
+	width: 500px;
+	height: 80px;
+	border-radius: 40px;
+
+}
+
+
+.welcome-convert{
+	margin-left: 35%;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+
+/*servies*/
+
+
+.servies-img{
+	width: 256px;
+	height: 256px;
+	margin-left: 50px ;
+}
+
+
+.p-servies{
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-left: 80px;
+}
+
+.servies-a{
+	color: #0088cc;
+	font-size: 2em;
+	margin-left: 80px;
+
+}
+
+
+#switchMode{
+	border: 0;
+	margin-left: 40px;
+	font-size: 1.5em;
+	color: #0088CC;
+
+}
+
+#switchMode:hover{
+	color: #fff;
+	transition: all 500ms ease;
+
+}
+
+
+@media only screen and (max-width: 1242px){
+
+	.tg-sticker-2{
+		display: block;
+		 margin-left: 0px;
+	}
+	.tg-sticker-1{
+		 display: block;
+	}
+	.p-cola{
+	margin-left: 300px;
+	}
+	.tg-sticker-3{
+		margin-left: 350px;
+
+	}
+
+	.crypto-input-div,
+	.crypto-button,
+	.output-crypto{
+		margin-left: 300px;
+	}
+	.input-currency-1,
+	.input-currency-2,
+	.currency-button{
+		margin-left: 300px;
+	}
+	.margin_left{
+		margin-left: 10% ;
+	}
+
+	.welcome-convert{
+		margin-left: 25%;
+	}
+	.crypto-link,
+	.currency-link{
+		margin-left: 100px;
+	}
+	.links-crypto{
+		margin-left: 30%;
+	}
+}
+
+
+
+@media only screen and (max-width: 1125px){
+
+	.links-crypto{
+		margin-left: 25%;
+	}
+
+	.Exchange-bot{
+	margin-left: 150px;
+	}
+
+	.h2-1{
+		margin-left: 150px;
+	}
+	.tg-sticker-2{
+		display: block;
+		 margin-left: 0px;
+	}
+	.tg-sticker-1{
+		 display: block;
+	}
+
+	.crypto-input-div,
+	.crypto-button,
+	.output-crypto{
+		margin-left: 250px;
+	}
+
+	.input-currency-1,
+	.input-currency-2,
+	.currency-button{
+		margin-left: 250px;
+	}
+	.margin_left{
+		margin-left: 10% ;
+	}
+	.welcome-convert{
+		margin-left: 20%;
+	}
+
+
+}
+
+
+
+
+@media only screen and (max-width: 1080px){
+
+
+	.Exchange-bot{
+	margin-left: 150px;
+	}
+
+	.h2-1{
+		margin-left: 150px;
+	}
+
+	.tg-sticker-2{
+		display: block;
+		 margin-left: 0px;
+	}
+	.tg-sticker-1{
+		 display: block;
+	}
+	.p-cola{
+	margin-left: 200px;
+	}
+	.tg-sticker-3{
+		margin-left: 300px;
+
+	}
+	.margin_left{
+		margin-left: 10% ;
+	}
+	.welcome-convert{
+		margin-left: 25%;
+	}
+
+	.links-crypto{
+		margin-left: 300px;
+	}
+
+
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 993px){
+
+	.Exchange-bot{
+		margin-left: 200px;
+		margin-bottom: 50px;
+	}
+
+
+	.h2-1{
+		margin-left: 150px;
+		color: #0088cc;
+		margin-bottom: 40px;
+	}
+
+	.currency{
+		margin-left: 0px;
+	}
+	.functional{
+		margin-left: 210px;
+	}
+	.tg-sticker-2{
+		 display: block;
+		 margin-left: 0px;
+	}
+	.tg-sticker-1{
+		 display: block;
+		}
+	.p-cola{
+	margin-left: 150px;
+	}
+	.tg-sticker-3{
+		margin-left: 200px;
+	}
+	.crypto-input-div,
+	.crypto-button,
+	.output-crypto{
+		margin-left: 150px;
+	}
+	.input-currency-1,
+	.input-currency-2,
+	.currency-button{
+		margin-left: 150px;
+	}
+	.welcome-convert{
+		margin-left: 15%;
+	}
+	.margin_left{
+		margin-left: 10% ;
+	}
+
+	.links-crypto{
+		margin-left: 200px;
+	}
+	.header_link1{
+		margin-left: 100px;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 768px){
+	.h1_welcome{
+		font-size: 1.2em;
+	}
+	.welcome_div{
+		width: 40%;
+	}
+
+
+	.header_link1{
+		margin-left: 25px;
+	}
+
+	.block-befor{
+		margin-bottom: 5px;
+	}
+
+	.block-after{
+		margin-top: 50px ;}
+
+	.functional{
+		margin-left: 150px;
+	}
+
+	.Exchange-bot{
+		margin-left: 200px;
+		margin-bottom: 50px;
+	}
+	.margin_left{
+	margin-left: 8% ;
+	}
+
+	.header {
+		margin-left: 8%;
+
+	}
+	.p-cola{
+	margin-left: 100px;
+	}
+	.tg-sticker-3{
+		margin-left: 50px;
+		width:256px ;
+		height: 256px;
+	}
+	.crypto-input-div,
+	.crypto-button,
+	.output-crypto{
+		margin-left: 150px;
+	}
+	.input-currency-1,
+	.input-currency-2,
+	.currency-button{
+		margin-left: 150px;
+	}
+
+	.welcome-convert{
+		margin-left: 10%;
+	}
+
+	.margin_left{
+		margin-left: 10% ;
+	}
+
+	.links-crypto{
+		margin-left: 200px;
+	}
+
+
+
+
+}
+
+
+@media only screen and (max-width: 640px){
+	.header_link1{
+		margin-left: 50px;
+
+	}
+	.img{
+		width: 211px;
+		height: 140px;
+	}
+	.githublink{
+		margin-bottom: 100px;
+	}
+	.telegramlink{
+		margin-bottom: 100px;
+	}
+
+
+	.Exchange-bot{
+	margin-left: 100px;
+	}
+
+	.h2-1{
+		margin-left: 100px;
+	}
+
+	.footer-text{
+		margin-left: 200px;
+	}
+	.margin_left{
+	margin-left: 15% ;
+	}
+	.crypto-input-div,
+	.crypto-button,
+	.output-crypto,
+	.input-currency-1,
+	.input-currency-2,
+	.currency-button{
+		margin-left: 50px;
+	}
+	.welcome-convert{
+		margin-left: 18%;
+	}
+	.margin_left{
+		margin-left: 10% ;
+	}
+	.links-crypto{
+		margin-left: 120px;
+	}
+	#switchMode{
+		margin-left: 28px;
+	}
+}
+
+
+
+@media only screen and (max-width: 428px){
+	.servies-img,
+	.p-servies,
+	.servies-a{
+		margin-left: 40px;
+	}
+	.header_link1{
+		margin-left: 40px;
+	}
+	.header_link2{
+		margin-left: 40px;
+	}
+
+	.welcome_div{
+		width: 80%;
+	}
+	.Exchange-bot{
+		margin-left: 50px;
+	}
+	.tg-sticker-2{
+		margin-left: 28px;
+	}
+	.margin_left{
+		margin-left: 10%;
+	}
+	.footer-text{
+		margin-left: 100px;
+	}
+	.header{
+		margin-left: 10%;
+	}
+	.tg-sticker-3{
+		margin-left: 50px;
+		width: 256px;
+		height: 256px;
+	}
+	.p-cola{
+		margin-left: 30px;
+		font-size: 0.8em;
+	}
+	.welcome-convert{
+		margin-left: 10% ;
+	}
+	.links-crypto{
+		margin-left: 25%;
+	}
+	.crypto-input-div,
+	.crypto-button,
+	.output-crypto,
+	.input-currency-1,
+	.input-currency-2,
+	.currency-button{
+		margin-left: 50px;
+		width: 300px;
+		height: 60px;
+	}
+	.crypto-input,
+	.currency-input-2,
+	.currency-input-1{
+		margin-top: 15px ;
+		margin-left: 10px;
+
+	}
+	.output-crypto{
+		font-size: 1.5em;
+	}
+	.chakra-text{
+		margin-left: 10px;
+		margin-top: 15px;
+	}
+	.output-currency{
+		margin-left: 25%;
+		width: 0px;
+	}
+
+
+}
+
+@media only screen and (max-width: 414px){
+	.header_link1{
+		margin-left: 40px;
+	}
+	.welcome_div{
+		width: 80%;
+	}
+	.Exchange-bot{
+		margin-left: 50px;
+	}
+	.tg-sticker-2{
+		margin-left: 10px;
+	}
+	.margin_left{
+		margin-left: 10%;
+	}
+	.footer-text{
+		margin-left: 100px;
+	}
+	.header{
+		margin-left: 10%;
+	}
+	.tg-sticker-3{
+		margin-left: 50px;
+		width: 256px;
+		height: 256px;
+	}
+	.p-cola{
+		margin-left: 30px;
+		font-size: 0.8em;
+	}
+	.welcome-convert{
+		margin-left: 10% ;
+	}
+	.links-crypto{
+		margin-left: 25%;
+	}
+	.crypto-input-div,
+	.crypto-button,
+	.output-crypto,
+	.input-currency-1,
+	.input-currency-2,
+	.currency-button{
+		margin-left: 50px;
+		width: 300px;
+		height: 60px;
+	}
+	.crypto-input,
+	.currency-input-2,
+	.currency-input-1{
+		margin-top: 15px ;
+		margin-left: 10px;
+
+	}
+	.output-crypto{
+		font-size: 1.5em;
+	}
+	.chakra-text{
+		margin-left: 10px;
+		margin-top: 15px;
+	}
+	.output-currency{
+		margin-left: 25%;
+		width: 0px;
+	}
+
+}
+
+
+@media only screen and (max-width: 375px){
+	.header_link1{
+		margin-left: 40px;
+	}
+	.welcome_div{
+		width: 80%;
+	}
+	.Exchange-bot{
+		margin-left: 50px;
+	}
+	.tg-sticker-2{
+		margin-left: 10px;
+	}
+	.margin_left{
+		margin-left: 10%;
+	}
+	.footer-text{
+		margin-left: 100px;
+	}
+	.header{
+		margin-left: 10%;
+	}
+	.tg-sticker-3{
+		margin-left: 50px;
+		width: 256px;
+		height: 256px;
+	}
+	.p-cola{
+		margin-left: 30px;
+		font-size: 0.8em;
+	}
+	.welcome-convert{
+		margin-left: 10% ;
+	}
+	.links-crypto{
+		margin-left: 25%;
+	}
+	.crypto-input-div,
+	.crypto-button,
+	.output-crypto,
+	.input-currency-1,
+	.input-currency-2,
+	.currency-button{
+		margin-left: 50px;
+		width: 300px;
+		height: 60px;
+	}
+	.crypto-input,
+	.currency-input-2,
+	.currency-input-1{
+		margin-top: 15px ;
+		margin-left: 10px;
+
+	}
+	.output-crypto{
+		font-size: 1.5em;
+	}
+	.chakra-text{
+		margin-left: 10px;
+		margin-top: 15px;
+	}
+	.output-currency{
+		margin-left: 25%;
+		width: 0px;
+	}
+
+
+}
