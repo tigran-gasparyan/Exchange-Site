@@ -354,6 +354,8 @@ a {
 }
 
 
+
+
 #switchMode{
 	-webkit-border: 0;
 	border: 0;
@@ -738,7 +740,7 @@ a {
 		margin-left: 10% ;
 	}
 	.links-crypto{
-		margin-left: 25%;
+		margin-left: 8%;
 	}
 	.crypto-input-div,
 	.crypto-button,
@@ -807,7 +809,7 @@ a {
 		margin-left: 10% ;
 	}
 	.links-crypto{
-		margin-left: 25%;
+		margin-left: 7%;
 	}
 	.crypto-input-div,
 	.crypto-button,
@@ -876,7 +878,7 @@ a {
 		margin-left: 10% ;
 	}
 	.links-crypto{
-		margin-left: 25%;
+		margin-left: 4%;
 	}
 	.crypto-input-div,
 	.crypto-button,
