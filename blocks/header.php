@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/light.css" id="theme">
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" href="/img/icon.ico" type="image/x-icon">
 </head>
 <body>
 
