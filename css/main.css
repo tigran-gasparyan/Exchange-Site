@@ -336,40 +336,14 @@ a {
 .servies-img{
 	width: 256px;
 	height: 256px;
-	margin-left: 50px ;
+	margin-left: 500px ;
+}
+
+.servise_div{
+	margin-left: 500px;
 }
 
 
-.p-servies{
-	font-weight: bold;
-	font-size: 1.2em;
-	margin-left: 80px;
-}
-
-.servies-a{
-	color: #0088cc;
-	font-size: 2em;
-	margin-left: 80px;
-
-}
-
-
-
-
-#switchMode{
-	-webkit-border: 0;
-	border: 0;
-	margin-left: 40px;
-	font-size: 1.5em;
-	color: #0088CC;
-
-}
-
-#switchMode:hover{
-	color: #fff;
-	transition: all 500ms ease;
-
-}
 
 
 @media only screen and (max-width: 1242px){
