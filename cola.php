@@ -24,7 +24,9 @@
 <br>
 <br>
 
-<p class="p-cola"><b>TONCOIN WALLET -  EQAM-EjMhZkcpCe8pz50ImRz_JQk2dYQJRtJEzDN2zrXpaCJ</b></p>
-
+<p class="p-cola"><b>TONCOIN WALLET - EQBfD8RkUWxNYK3eCJOTpOWoN3XlCtn-kcIo_bsBUSo2DcOZ  </b></p>
+<p class="p-cola"><b>NANO WALLET - nano_1qkgqs44rax13ez8ac9cbkiw53k8maygu7utu6xgburt6n145cm4yt85cbkw  </b></p>
+    
+    
 </body>
 </html>
