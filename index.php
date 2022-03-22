@@ -4,7 +4,7 @@
 
 <div class="block-befor">
 
-    <div class="welcome_div container "><h1 class="h1_welcome"> Welcome to The Open Network </h1> This Bot can convert almost all Cryptocurrency to currency and one currency to onather currency and it is work absolutly fantastic. Now its version is 2.5 there are no bugs
+    <div class="welcome_div container "><h1 class="h1_welcome"> Welcome to The Exchange </h1> This Bot can convert almost all Cryptocurrency to currency and one currency to onather currency and it is work absolutly fantastic. Now its version is 2.5 there are no bugs
     </div>
 
 
